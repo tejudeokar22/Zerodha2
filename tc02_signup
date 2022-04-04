@@ -1,0 +1,9 @@
+ //tc01
+      s.Enterfname("tejj");
+      s.EnterLname("absd");
+      s.EnterEmail("tej@2344");
+      s.Enterpassword("22344");
+      s.clicklogin();
+      s.selectday("4");
+      s.selectMonth("2");
+      s.selectYear("1995");
